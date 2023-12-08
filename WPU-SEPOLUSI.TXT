@@ -1,3 +1,4 @@
 WPU REPOLUSI
 -membuat platform untuk pengelolaan website
 -membuat forum diskusi
+-membuat data base
